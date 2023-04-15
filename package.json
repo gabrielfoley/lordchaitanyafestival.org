@@ -1,0 +1,19 @@
+{
+  "name": "lordchaitanyafestival.org",
+  "version": "1.0.0",
+  "description": "old site for the ISKCON Ratha Yatra Festival",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielfoley/lordchaitanyafestival.org.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielfoley/lordchaitanyafestival.org/issues"
+  },
+  "homepage": "https://github.com/gabrielfoley/lordchaitanyafestival.org#readme"
+}
